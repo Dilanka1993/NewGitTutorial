@@ -1,3 +1,7 @@
 Text example
 
 This is new file
+
+merge file
+
+merge pull and push
