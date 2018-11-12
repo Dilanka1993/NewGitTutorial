@@ -7,3 +7,5 @@ merge file
 merge pull and push
 
 fetch
+
+frtch vs merge
